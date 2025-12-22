@@ -1,2 +1,2 @@
-# Kafka_Projects
+# Kafka_Projects - confluent kafka
 Confluent Kafka Projects
